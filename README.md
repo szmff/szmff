@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/pixel_art_eyes_blinking_animation.gif" alt="Animated pixel-art eyes — ZEYADNOUR" width="100%" />
+  <img src="./assets/hero.svg" alt="ZEYADNOUR — animated pixel-art hands and developer banner" width="100%" />
 
   <h1>Hi, I'm Zeyad Nour 👋</h1>
   <strong>Full-Stack Web Developer · UI/UX-Focused · MIS Graduate · Egypt 🇪🇬</strong>
