@@ -1,9 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08090f"/><stop offset="1" stop-color="#171123"/></linearGradient><pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1" fill="#a78bfa" opacity=".25"/></pattern></defs>
-<rect width="1200" height="340" rx="14" fill="url(#bg)"/><rect x="7" y="7" width="1186" height="326" rx="11" fill="none" stroke="#a78bfa" stroke-width="2"/><rect x="25" y="26" width="1150" height="285" fill="url(#dots)" opacity=".45"/>
-<g fill="none" stroke="#eee9fa" stroke-width="3" stroke-linejoin="round" opacity=".88"><path d="M35 175 L100 149 144 131 195 134 230 153 285 164 334 188 360 211 346 225 312 211 280 201 258 205 300 230 296 244 268 238 237 217 218 213 244 248 234 262 204 240 181 211 155 201 124 201 84 221 35 227"/><path d="M1165 175 L1100 149 1056 131 1005 134 970 153 915 164 866 188 840 211 854 225 888 211 920 201 942 205 900 230 904 244 932 238 963 217 982 213 956 248 966 262 996 240 1019 211 1045 201 1076 201 1116 221 1165 227"/></g>
-<rect x="420" y="43" width="360" height="29" fill="#0b0b12" stroke="#a78bfa"/><text x="437" y="63" font-family="monospace" font-size="15" fill="#c4b5fd">ZEYADNOUR.EXE</text><circle cx="759" cy="57" r="5" fill="#a78bfa"/>
-<text x="600" y="167" text-anchor="middle" font-family="monospace" font-size="67" font-weight="bold" letter-spacing="5" fill="#fff">ZEYADNOUR</text>
-<text x="600" y="210" text-anchor="middle" font-family="monospace" font-size="20" letter-spacing="3" fill="#c4b5fd">JUNIOR WEB DEVELOPER</text>
-<text x="600" y="254" text-anchor="middle" font-family="monospace" font-size="15" fill="#a1a1aa">DESIGNED WITH PURPOSE. BUILT WITH CODE.</text>
-<g fill="#a78bfa"><circle cx="390" cy="186" r="4"><animate attributeName="opacity" values=".15;1;.15" dur="2s" repeatCount="indefinite"/></circle><circle cx="810" cy="186" r="4"><animate attributeName="opacity" values="1;.15;1" dur="2s" repeatCount="indefinite"/></circle></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="ZEYADNOUR animated pixel hands banner">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090b12"/><stop offset=".55" stop-color="#11101c"/><stop offset="1" stop-color="#1b112c"/></linearGradient>
+ <linearGradient id="ink" x1="0" x2="1"><stop stop-color="#e8defb"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+ <pattern id="grid" width="18" height="18" patternUnits="userSpaceOnUse"><path d="M18 0H0V18" fill="none" stroke="#a78bfa" stroke-width=".6" opacity=".16"/></pattern>
+ <filter id="glow" x="-40%" y="-70%" width="180%" height="240%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<rect width="1200" height="340" rx="14" fill="url(#bg)"/>
+<rect x="7" y="7" width="1186" height="326" rx="11" fill="none" stroke="#a78bfa" stroke-opacity=".65" stroke-width="2"/>
+<rect x="19" y="19" width="1162" height="302" fill="url(#grid)"/>
+<path d="M32 88h100M1068 88h100M32 280h100M1068 280h100" stroke="#a78bfa" stroke-width="2" opacity=".4"/>
+<!-- Pixel-style hands reaching toward the title; independent, gentle floating motion. -->
+<g id="hands" fill="#e7ddf6" stroke="#a78bfa" stroke-width="2" stroke-linejoin="miter">
+ <g><animateTransform attributeName="transform" type="translate" values="0 0;5 -5;0 0" dur="4.5s" repeatCount="indefinite"/>
+  <path d="M20 213H50V201H83V187H114V173H147V161H178V153H211V160H239V172H267V184H295V197H324V209H352V222H364V234H352V242H335V235H308V225H278V219H252V228H274V239H297V252H289V262H274V259H250V248H228V237H207V234L225 251V264H212V272H198L183 255L169 241L151 233L130 232L103 240L76 253H20Z" fill="#d6c6e8" stroke="#8c76ad" stroke-width="3"/>
+  <path d="M20 213H50V201H83V187H114V173H147V161H178V153H211V160H239V172H267V184H295V197H324V209H352" fill="none" stroke="#faf7ff" stroke-width="6" opacity=".75"/>
+  <path d="M103 240L130 232L151 233M252 228L278 219M169 241L183 255" fill="none" stroke="#9e8ab8" stroke-width="3"/>
+  <rect x="77" y="203" width="9" height="9" fill="#a78bfa" stroke="none"/>
+ </g>
+ <g transform="translate(1200 0) scale(-1 1)"><g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;5 -5;0 0" dur="4.5s" begin=".5s" repeatCount="indefinite"/>
+  <path d="M20 213H50V201H83V187H114V173H147V161H178V153H211V160H239V172H267V184H295V197H324V209H352V222H364V234H352V242H335V235H308V225H278V219H252V228H274V239H297V252H289V262H274V259H250V248H228V237H207V234L225 251V264H212V272H198L183 255L169 241L151 233L130 232L103 240L76 253H20Z" fill="#d6c6e8" stroke="#8c76ad" stroke-width="3"/>
+  <path d="M20 213H50V201H83V187H114V173H147V161H178V153H211V160H239V172H267V184H295V197H324V209H352" fill="none" stroke="#faf7ff" stroke-width="6" opacity=".75"/>
+  <path d="M103 240L130 232L151 233M252 228L278 219M169 241L183 255" fill="none" stroke="#9e8ab8" stroke-width="3"/>
+  <rect x="77" y="203" width="9" height="9" fill="#a78bfa" stroke="none"/>
+ </g></g>
+</g>
+<rect x="439" y="34" width="322" height="31" rx="4" fill="#0b0c15" stroke="#6f568e"/>
+<text x="455" y="55" font-family="monospace" font-size="15" fill="#c4b5fd">ZEYADNOUR.EXE</text>
+<circle cx="737" cy="49" r="5" fill="#a78bfa"><animate attributeName="opacity" values=".3;1;.3" dur="1.8s" repeatCount="indefinite"/></circle>
+<text x="600" y="165" text-anchor="middle" font-family="monospace" font-size="65" font-weight="bold" letter-spacing="4" fill="#a78bfa" opacity=".55" filter="url(#glow)">ZEYADNOUR<animate attributeName="opacity" values=".25;.65;.25" dur="3.5s" repeatCount="indefinite"/></text>
+<text x="600" y="165" text-anchor="middle" font-family="monospace" font-size="65" font-weight="bold" letter-spacing="4" fill="#f9f7ff">ZEYADNOUR<animate attributeName="fill" values="#f9f7ff;#c4b5fd;#f9f7ff" dur="3.5s" repeatCount="indefinite"/></text>
+<path d="M420 181H780" stroke="#a78bfa" stroke-width="2" opacity=".55" stroke-dasharray="30 9"><animate attributeName="stroke-dashoffset" from="0" to="-78" dur="4s" repeatCount="indefinite"/></path>
+<text x="600" y="217" text-anchor="middle" font-family="monospace" font-size="18" letter-spacing="2.2" fill="#c4b5fd">FULL-STACK WEB DEVELOPER</text>
+<text x="600" y="249" text-anchor="middle" font-family="monospace" font-size="13" letter-spacing="1.4" fill="#a1a1aa">UI/UX FOCUSED  //  DESIGN + ENGINEERING</text>
+<g fill="#a78bfa"><rect x="392" y="175" width="6" height="6"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></rect><rect x="802" y="175" width="6" height="6"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></rect></g>
+</svg>
