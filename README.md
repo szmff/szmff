@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="ZEYADNOUR — animated pixel-art hands and developer banner" width="100%" />
+  <img src="./assets/hero.gif" alt="ZEYADNOUR — animated halftone hands and retro developer banner" width="100%" />
 
   <h1>Hi, I'm Zeyad Nour 👋</h1>
   <strong>Full-Stack Web Developer · UI/UX-Focused · MIS Graduate · Egypt 🇪🇬</strong>
