@@ -65,8 +65,8 @@ A gaming e-commerce project built around product discovery and store management.
 ## 05 / GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=szmff&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=E5E7EB" alt="Zeyad Nour GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szmff&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" alt="Most used languages" height="165"/>
+  <img src="./assets/github-stats.svg" alt="Zeyad Nour GitHub stats" width="49%"/>
+  <img src="./assets/top-languages.svg" alt="Most used languages" width="49%"/>
 </div>
 
 ## 06 / Activity Graph
